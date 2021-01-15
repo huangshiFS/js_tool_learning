@@ -1,0 +1,25 @@
+{
+  "name": "js_tool_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangshiFS/js_tool_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangshiFS/js_tool_learning/issues"
+  },
+  "homepage": "https://github.com/huangshiFS/js_tool_learning#readme",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/generator": "^7.12.11",
+    "@babel/parser": "^7.12.11",
+    "@babel/traverse": "^7.12.12"
+  }
+}
